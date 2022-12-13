@@ -4,7 +4,7 @@
  ### Hi there 👋
 - 👋 I’m @i-jelly, Get in touch with me at [i-jelly.com](mailto:admin@i-jelly.com)
 - 👀 I’m interested in Power Electronics, especially High Frequency/High Power Switching Power Supply system.
-- ⚡ Currently a Algorithm/Hardware engineer of DFIG Wind powered generator,
+- ⚡ Currently an Algorithm/Hardware engineer in renewable power industry(Wind power DFIG generator),
 - 🌱 Learning C#
 
 <!---
